@@ -1,4 +1,4 @@
-# COMP229-S2022-MidTerm Test
+# COMP229-S2022-MidTermTest-301199382
 
 ## Welcome to the MidTerm Project - the Favourite Book List App
 
